@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "592576560046",
+    "firebase_url": "https://fir-testproject-e2a38.firebaseio.com",
+    "project_id": "fir-testproject-e2a38",
+    "storage_bucket": "fir-testproject-e2a38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592576560046:android:3b34e993e67c1e2c",
+        "android_client_info": {
+          "package_name": "breakpointinc.com.firebaseapptest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592576560046-dbajmr719e1nj0a40rh36a99a4l6r0d4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGMU-s6_sjn-SOFOtliw2acHwV-459Ga8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
